@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-##### Hey, my name is Jayant Jha currently working as Machine Learning Scientist at a organization EZLab based out of Gurugram, Haryana, India.
+##### Hey, my name is Jayant Jha currently working as Machine Learning Scientist at a organization [EZLab](wwww.ezworks.io) based out of Gurugram, Haryana, India.
 - 🔭 I’m currently working on:
   -   Machine Translation 
   -   Optical Character Recognition 
