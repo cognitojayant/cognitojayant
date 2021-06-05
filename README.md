@@ -19,4 +19,4 @@
   - [Instagram](https://www.instagram.com/cognitojayant/)
   - [Blog](cognitojayant.github.io) 
 - ⚡ Fun fact:
-  -  Deep Interest in Spritulism, Theology 
+  -  Deep Interest in Sprituality, Theology
